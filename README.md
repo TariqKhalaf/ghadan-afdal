@@ -28,9 +28,17 @@ The website showcases the company's services, experience, contact information, a
 
 ![About](screenshots/about.png)
 
-### Contact
+### stats
 
-![Contact](screenshots/contact.png)
+![Contact](screenshots/stats.png)
+
+### why-us
+
+![Contact](screenshots/why-us.png)
+
+### footer
+
+![Contact](screenshots/footer.png)
 
 ---
 
