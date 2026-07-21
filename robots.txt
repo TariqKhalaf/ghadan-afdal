@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ghada-afdal.netlify.app/sitemap.xml
